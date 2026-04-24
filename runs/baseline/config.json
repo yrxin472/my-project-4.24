@@ -1,0 +1,21 @@
+{
+  "data_root": "B:\\work\\RLD0315\\350\\500\\500\\code\\EuroSAT_RGB",
+  "output_dir": "runs/baseline",
+  "image_size": 64,
+  "epochs": 30,
+  "batch_size": 128,
+  "hidden_dim": 256,
+  "hidden_dim2": null,
+  "activation": "relu",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "lr_step": 10,
+  "lr_gamma": 0.5,
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "test_ratio": 0.15,
+  "seed": 42,
+  "stats_sample_size": null,
+  "input_dim": 12288,
+  "num_classes": 10
+}

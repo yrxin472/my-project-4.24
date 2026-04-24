@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.6014814814814815,
+  "best_epoch": 30,
+  "best_model_path": "runs\\baseline\\best_model.npz",
+  "output_dir": "runs\\baseline"
+}

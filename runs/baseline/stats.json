@@ -1,0 +1,25 @@
+{
+  "mean": [
+    -0.31234288215637207,
+    -0.2400096356868744,
+    -0.1847757250070572
+  ],
+  "std": [
+    0.4049645662307739,
+    0.2738799452781677,
+    0.23122473061084747
+  ],
+  "class_names": [
+    "AnnualCrop",
+    "Forest",
+    "HerbaceousVegetation",
+    "Highway",
+    "Industrial",
+    "Pasture",
+    "PermanentCrop",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "image_size": 64
+}
